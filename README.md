@@ -16,7 +16,7 @@ APPARATUS REQUIRED:-
 |----|----------------------|--------------------------------|-----------------|
 | 4. | Stepper Motor        |             -                  |    1            |
 |----|----------------------|--------------------------------|-----------------|
-
+ 
 THEORY :-
 
 A motor in which the rotor is able to assume only discrete stationary angular positions is a stepper motor. The rotary motion occurs in a stepwise manner from one equilibrium position to the next.
